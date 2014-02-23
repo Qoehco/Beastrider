@@ -4,9 +4,9 @@ Setup:
 	-On GitHub goto Help > Set Up Git then Download and install Git. Don't do the native app Green button thing at the top. It kinda really sucks and despite looking nicer is far less intuitive.
 	-Open up Git Gui
 	-Click "Clone Existing Repository"
-	-In Source Location put: https://github.com/fad4470/GDD-Racer
-	-For the target directory, browse to some folder where you'll want to put the project (Like C:/Whatevs/School/GDD) then at the end of the target path add "GDD-Racer"
-		#To clarify, in this example the whole path should be "C:/Wateves/School/GDD/GDD-Racer" HOWEVER the GDD-Racer folder should not exist yet.
+	-In Source Location put: https://github.com/Qoehco/Beastrider
+	-For the target directory, browse to some folder where you'll want to put the project (Like C:/Whatevs/Coolstuffs/Projects) then at the end of the target path add "Beastrider"
+		#To clarify, in this example the whole path should be "C:/Wateves/Coolstuffs/Projects/BeastRider" HOWEVER the Beastrider folder should not exist yet.
 	-Once it is done, go to Edit > Options and set your username and email in the upper left.
 		
 	
