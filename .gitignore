@@ -2,3 +2,5 @@
 *.tmp
 .DS_STORE
 Thumbs.db
+
+/flash/swc/TestSWFOutput/*
