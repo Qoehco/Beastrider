@@ -1,0 +1,15 @@
+
+##com.beastrider.src
+	-Main		: Main document for the game.
+	
+	##util		: all non-instanciated utility classes
+		-MathHelper		: Helper class for all things math
+
+	##components
+		##physics
+			-PhysicsObj		: Base class for all physics-based objects
+			-PhysicsWorld	: Container and manager of all physics objects for a level
+			-PCircle		: Circular physics object. Extends Physics Object
+			-PRectangle		: Rectangular physics object. Extends Physics Object
+			-PTriangle		: Right-triangle physics object. Extends Physics Object
+			-PEntity		: Half-capsule shaped physics object meant for entities. Extends physics object.
